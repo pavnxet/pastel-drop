@@ -10,9 +10,9 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/pavnxet/pastel-drop/main/Dashboard%20preview.%20.png" width="80%" alt="Pastel Drop Dashboard"/>
+<img src="https://raw.githubusercontent.com/pavnxet/pastel-drop/master/dashboard-preview.png" width="80%" alt="Pastel Drop Dashboard"/>
 
-<img src="https://raw.githubusercontent.com/pavnxet/pastel-drop/main/One%20wallpaper%20clicked%20open%20element.%20.png" width="60%" alt="Wallpaper Preview Modal"/>
+<img src="https://raw.githubusercontent.com/pavnxet/pastel-drop/master/wallpaper-modal-preview.png" width="60%" alt="Wallpaper Preview Modal"/>
 
 <br/>
 
